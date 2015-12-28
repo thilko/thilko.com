@@ -1,0 +1,37 @@
+---
+layout: post
+title: "My year 2014"
+date: 2014-12-23 14:00:00 +0100
+comments: true
+categories: agile
+---
+2014 is nearly over, 2015 is around the corner. Time for a short retrospective.
+
+For me 2014 was a challenging year. What happened?
+
+## Achievements
+I participate at my very [first fighting event][1]. I lost but nevertheless it was a really important experience because I faced my fear and left my comfort zone.
+
+I had my [first conference speak][2] at JavaZone in Oslo. I spoke in front of around 50 people. That took me miles out of my comfort zone and as always it was really a good thing to do that.
+
+I was the facilitator of the [Global Day of Code Retreat in Lübeck][3]. We had an inspiring day which gave me the chance to announce the foundation of the [Softwerkskammer Lübeck][4]. We also had our first gathering in December and even if no one would longer interesting in participating, personally it was a great experience to build something new.
+
+I facilitated a handful of coding dojos in my company. It´s great to work with other developers on the core skills and it was a great opportunity for me to get better in my profession as a software developer.
+
+{% img left /images/my_year_2014.jpg 460 300 my year 2014 %}
+
+And finally I spend a lot of time in learning about agile, lean and change management and that is a good and bad thing. Why? It´s a good thing because as a developer I took responsibility. I tried to be not just a coding monkey where someone else say what I should program. I tried to shape my environment so that we as developers could bring our value to the customers.
+
+The bad thing? Since I spend more time on learning what agile/lean really means  and spending more time discussing those values with others(i.e. managers), I had less time for working on my core skills.
+
+I am afraid of that because I don´t wanna be meeting monster or someone who just talks about processes, even if it stands for a good case. My deepest belief is, **that developers who crafting code are those who creating value. Managers are there to help them. We need to work together in order to eliminate waste but the value is added by the developer.** Developers should shape their environment and processes because **developers are the only one who have the technical skills for that.**
+
+## 2015?
+The measurable parts: at least one conference talk and at least one kata a week.
+
+And: **Not becoming a coding monkey or meeting monster.**
+
+[1]: http://www.whkd-ng-cup.de/
+[2]: http://2014.javazone.no/presentation.html?id=ab6544cd
+[3]: http://thilko.com/blog/2014/11/27/global-day-of-code-retreat-2014/
+[4]: https://www.softwerkskammer.org/wiki/luebeck/index

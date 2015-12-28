@@ -1,0 +1,106 @@
+---
+layout: post
+title: "SoCraTes 2015"
+date: 2015-08-30 17:40:36 +0200
+comments: true
+categories: softwerkskammer socrates agile craftsmanship
+---
+This year I have been on my first [SoCraTes][1]! It was also my first [unconference][2] and a great experience I would like to share here.
+
+{% img left /images/socrates_panorama.jpg 600 400 socrates %}
+
+## The venue
+
+SoCraTes 2015 happened at the [Hotel Park Soltau][4]. It´s a bigger hotel complex with a many conference rooms, a wellness area and much space for doing [kung fu][5] exercises (which I used for me). The only disappointing thing for me was the slow and sometimes dysfunctional wireless there. But I have heard that it was better than last year.
+
+The served food was really tasty and a bonus point for the venue. Even as an vegetarian there was enough and on day two they served a barbeque outside.
+
+## The beginning
+
+It started at thursday evening with a great come together and a [world coffee][3]. We had three session a´ 20 minutes in different rooms. In smaller groups we sat together a shared our ideas what we could talk about in the next two days. It was inspiring and I got a first glimpse that the next days will be surprising.
+
+## Day one (Friday)
+At 7am I met with other sport craftsman at the entrance for a run. I was NOT the only one! Can´t remember the exact number but maybe 14 people started for a 5/10km run. A great start for the first conference day.
+
+We started at nine with an introduction into the [open space][6] concept. The moderator - [Pierluigi Pugliese][7] - did an awesome job in explaining the open space concept.
+
+Around 10:30 the schedule with a lot of interesting talks was filled and only with a slight delay (not worth the mention since more than 180 people organized themself!).
+
+Just some of interesting talks I´ve seen this day:
+
+* Intro to visual notetaking and sketchnotes
+* Description Craftsmanship (bringing craftsmanship principles to the requirements engineering)
+* Functional programming with JavaScript and ramda.js
+* Code retreat Constraints
+* TDD in the C/C++ code (I had the chance to learn more about mocking in C)
+
+We had various evening sessions: Coding Dojo(where I have been), [Powerpoint Karaoke][8] to name just a few. Not to forget the interesting conversations (with beer) at the hotel bar!
+
+## Day two (Saturday)
+I started my day with some kung lessons in the hotel garden. Since the area is quite spacious it was quite and I could focus on the execution.
+
+{% img right /images/socrates_groovy_talk.jpg 200 100 groovy_talk %}
+
+Today the spirit of the conference got me and I proposed two talks: **"Groovify Java"** and **"How to change a company as a developer without becoming a manager"**.
+
+The idea for the latter was to facilitate a lean coffee session and in order to share ideas about that. Since [@Fischermaen][9] proposed a conversation about agile transformations we quickly decided to join our sessions. We had great ideas there!
+
+We talked about "acting as an example" and skunk awards as a way to change the organizational culture. You never can change a company alone, find willing people and build a coalition! Interesting thoughts: whenever you hear: "That does not work here!", ask: "What will work?" and _"Ask for forgiveness and not for permission"_.
+
+{% img left /images/socrates_agile_transformation_summary.jpg 250 125 agile_transformation_summary %}  
+
+So this day was really the time where I left my comfort zone. And it was great.
+
+{% img left /images/socrates_agile_transformation.jpg 250 125 agile_transformation %}
+
+## Day three (Sunday)
+After the last days was a bit more quite compared the former days. I had a relaxing breakfast with good talks about retrospectives. Today some workshops were scheduled. I joined the [Extreme Startup][10] session and although I was a bit late and couldn´t compete with the other groups I had quite a lot of fun and I will try the game at one of the next coding dojo sessions or at the [Softwerkskammer meetups][11].
+
+## The sessions
+Just as an appetizer:
+
+* Advanced Git
+* TDD does not lead to good design
+* Scaling Agile
+* Tackling the newsletter problem with TDD
+* Concurrency, Robustness & Elixir
+* Full Pair Programming
+* How to manage different flavors of people
+* Name and Gender Representation in Data and User Interfaces
+* Refactoring Legacy Code
+* ES6 Katas
+* How to build an admin interface for REST Webservers
+* Data analytics
+* Code reviews
+* (When) do we really need frameworks
+* Vim! But better! Inside Emacs!
+* Technology is not important
+* Blender intro
+* Code Retreat Constraints
+* Expirience technical dept
+* Your code as a crime scene
+* Implement a game so that the source code can be used as game instructions
+* Be Cat-Matic
+* Code is music
+* ...
+
+## What you can expect
+An intense, highly interactive conference with really enthusiastic people. It´s a community who lives the spirit of the software craftsmanship.
+
+As Pierluigi said: __The conference is like an empty pot and it is filled with the people that are there.__ Every experience or thought is valuable and forms a community which helps each other in finding better solutions as a software craftsman.
+
+I am happy the be a part of the community and looking forward to the next SoCraTes. Thanks for the great conference!
+
+{% img center /images/socrates_lob.jpg 400 125 lob %}
+
+[1]: https://www.socrates-conference.de/
+[2]: https://en.wikipedia.org/wiki/Unconference
+[3]: https://en.wikipedia.org/wiki/World_Caf%C3%A9_(conversational_process)
+[4]: http://www.hotel-park-soltau.de/
+[5]: http://www.whkd.de/
+[6]: https://en.wikipedia.org/wiki/Open_Space_Technology
+[7]: http://connexxo.com/about-us/pierluigi-pugliese/
+[8]: https://en.wikipedia.org/wiki/Powerpoint-Karaoke
+[9]: https://twitter.com/fischermaen
+[10]: https://blog.codecentric.de/en/2015/06/extreme-startup-at-codecentric/
+[11]: https://www.softwerkskammer.org/groups/luebeck

@@ -1,0 +1,18 @@
+/* ==========================================================================
+   Coderay syntax highlighting
+   ========================================================================== */
+
+article img {
+    @extend .basic-alignment;
+    border: #fff 0.5em solid;
+    box-sizing: border-box;
+    border-radius: 0.3em;
+    box-shadow: rgba(0,0,0,0.15) 0 1px 4px;
+}
+
+.basic-alignment {
+  &.left { float: left; margin-right: 1.5em; }
+  &.right { float: right; margin-left: 1.5em; }
+  &.center { display:block; margin: 0 auto 1.5em; }
+  &.left, &.right { margin-bottom: .8em; }
+}
