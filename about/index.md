@@ -27,7 +27,7 @@ Companies I have worked for:
 * [Conergy][10]
 * [Talkline GmbH (R.I.P.)][9]
 * [Brokat Technologies (R.I.P.)][8]
-* Arche AG
+* [Arche Systems GmbH][13]
 
 [1]: https://vimeo.com/105758344
 [2]: https://www.softwerkskammer.org/groups/luebeck
@@ -41,3 +41,4 @@ Companies I have worked for:
 [10]: http://www.conergy.de/
 [11]: https://www.blau.de/
 [12]: http://www.draeger.com/
+[13]: http://www.arche-systeme.de/
