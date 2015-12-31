@@ -1,0 +1,83 @@
+---
+layout: post
+title: Done!
+modified:
+categories:
+excerpt: A sketchnote about my activities in the last months of 2015.
+tags: [softwerkskammer personal]
+image:
+  feature:
+date: 2015-12-30T11:20:25+01:00
+---
+On my first attendance of [SoCraTes][1] this year I got in touch with [sketchnotes][2] and since then I started to work with [them in meetings][3] and for my personal notetaking.
+
+In September, when the time was really busy, I started to make an overview about my current activities - just to make sure that nothing gets lost. So what happened?
+
+{% img center /images/timeline_2015.png 600 400 timeline_2015 %}
+
+
+Coding Dojos
+=====
+I´ve facilitated a couple of coding dojos in my company. We experimented with various topics, i.e. using a raspberry pi with attached breadboard to simulate a more embedded like environment. The challenge was to develop a binary clock with some led´s in TDD style.
+
+{% img left /images/raspberry_pi_led.jpg 300 200 raspberry pi %}
+
+In another session we worked with the diamond kata. With Emily´s repository solved the kata in incremental and iterative way.
+
+My learning from the last dojos was that coming with a prepared IDE essential. Especially if you have short iterations, problems with your environment can slow you down significantly.
+
+My plan for the next year is to continue the dojos with the raspberry pi.
+
+Lean coffee
+=====
+Coming from the idea to introduce change and foster discussions about the important themes I facilitate the lean coffee session at my company about more than one year now. My personal highlight was that we shifted the sessions from a closed meeting room to a public location at the coffee bar - a moment where I left my comfort zone. Since then the number of participants fluctuates between 4 and 15. Still hard to say how successful the sessions really are, but we had at least some fruitful discussions and started to raise awareness.
+The more important point on lean coffee is to get in touch with colleagues you normally not work with and build up networks. That´s something I would like foster next year again!
+
+MetaNook
+=====
+Tobias and I had a great talk about TDD([Chuck Norris doesn´t need a debugger, he writes tests!][6]) at the university. We started with some theory and continued with a prepared kata. Afterwards we facilitated together with Florian a coding dojo with more than 30 participants.
+
+{% img center /images/metanook2015_dojo.jpg 600 400 metanook %}
+
+Global day of code retreat
+=====
+{% img left /images/gdcr2015_sketchnote.jpg 300 200 gdcr2015 %}
+Lübeck was again part of the Global day of Code Retreat! This time we met at the [Chaotkium][5], a cozy hackspace in the inner city of Lübeck. Tobias was the facilitator, I took care of the lunch and organized some video conferences. A great day again.  
+
+Kick-Off Competence Network
+=====
+A bigger event in my company with more than 140 participants. We planned an open space and it should be my first open space as a moderator. But one day before the birth of my two daughters started - so I wasn´t able to moderate it but fortunately Sina took over my Job and it was a great event! I believe that the Open Space Technology is a key element in transforming an organization: **true, honest and open discussions about things that are relevant for the people is the key.**
+
+{% img center /images/cnetwork2015.jpg 600 400 cnetwork %}
+
+Softwerkskammer
+=====
+The Softwerkskammer Lübeck had a great year, with a lot of interesting talks and events. Have a look:
+
+* 08.01.2015: [Solid Vortrag und Cloudsters Commons](https://www.softwerkskammer.org/activities/Treffen%20der%20Softwerkskammer%20L%C3%BCbeck)
+* 05.02.2015: [Hackerspace, Chaotikum, funktionale Programmierung und Java8](https://www.softwerkskammer.org/activities/3_sw_luebeck)
+* 05.03.2015: [Einführung in Scrum/KanBan/agile/lean, D - drei coole Features](https://www.softwerkskammer.org/activities/5_sw_luebeck)
+* 09.04.2015: [Lightning Talks: Android, ELK, PDF4SmallTalk, Spock, C++ Ext. ](https://www.softwerkskammer.org/activities/5_sw_luebeck)
+* 07.05.2015: [XTend und XText](https://www.softwerkskammer.org/activities/6_sw_luebeck)
+* 04.06.2015: [Kleine Einführung in Go](https://www.softwerkskammer.org/activities/7_sw_luebeck)
+* 02.07.2015: [SWK, Holokratie Entscheidungsprozess applied, Jetzt wird gelernt](https://www.softwerkskammer.org/activities/8_sw_luebeck)
+* 06.08.2015: [MetaNook, Android Entwicklung in der Praxis, LaTeX Grundlagen](https://www.softwerkskammer.org/activities/9_sw_luebeck)
+* 03.09.2015: [**Bei Dräger**: Global Day of Code Retreat, Prepared Kata, XP +  Scrum](https://www.softwerkskammer.org/activities/10_sw_luebeck)
+* 01.10.2015: [**Bei Hypoport**: Extreme Startup Game](https://www.softwerkskammer.org/activities/11_sw_luebeck)
+* 06.11.2015: [**MetaNook**: Vorträge über Smalltalk, TDD und ein Coding Dojo](https://www.softwerkskammer.org/activities/12_sw_luebeck)
+* 03.12.2015: [**Euroimmun**: Bildverarbeitung und UI-Design in der Immunofloureszenz-Technologie, Scrum Applied](https://www.softwerkskammer.org/activities/13_sw_luebeck)
+* 17.12.2015: [Tribal Leadership - die Kultur von florierenden Unternehmen](https://www.softwerkskammer.org/activities/13_2_sw_luebeck)
+
+Kung Fu examination
+=====
+Last but not least: my [kung fu exercise][4] for the green belt. I worked more than half a year for that. Thanks to Ulli - my wife - in supporting and pushing to not skip the training. After 5h intense training I earned the green belt! Finally, after 8 years!
+
+{% img center /images/whkd_green_belt.jpg 600 400 go_green %}
+All in one a really tough year and I am excited about the upcoming challenges in the next one.
+
+[1]: https://thilko.com/2015/08/30/socrates-2015/
+[2]: http://sketchnote-love.com/
+[3]: http://www.amazon.de/UZMO-Visuell-pr%C3%A4sentieren-dokumentieren-erkunden/dp/3868815171
+[4]: http://www.sifumichael.de/
+[5]: http://chaotikum.org/
+[6]: https://frab.metameute.de/de/nook2015/public/events/70
