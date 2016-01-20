@@ -9,7 +9,7 @@ image:
 date: 2016-01-20T14:27:12+01:00
 ---
 {% img left /images/agile_it_organization_design_cover.jpg 200 200 agile organizational design %}
-I came along the book "[Agile IT organization design][1]" by Sriram Narayan and I used some [sketchnotes][2] to make a personal documenation of the book.
+I came across the book "[Agile IT organization design][1]" by Sriram Narayan and I used some [sketchnotes][2] to make a personal documenation of the book.
 
 ### Some takeaways
 
