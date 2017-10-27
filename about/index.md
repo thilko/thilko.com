@@ -12,7 +12,7 @@ Since 2000 I develop software with passion in various companies. I believe in th
 I believe that continuous life-long learning + improving and curiosity are the most important skills of a craftsman and I try to implement it for me with dojos, katas, conferences and collaborating. I had my first conference talk at the [JavaZone][1].  
 
 We as [software craftsman][3] need networks where we can collaborate, exchange ideas, share knowledge and improve our skills together. Since I believe in the power of those networks I founded the [Softwerkskammer Lübeck][2], a place where developer from Lübeck and around can meet.  
-I practice [Dacascos Kung Fu][7] and live with my family in Lübeck. Currently I work for [ELEMENT][6] as a software developer.
+I practice [Dacascos Kung Fu][7] and live with my family in Lübeck. Currently I work for [ELEMENT][14] as a software developer.
 
 # ... less important, but interesting to know
 
