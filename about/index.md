@@ -24,8 +24,8 @@ Companies I have worked for:
 
 * [ELEMENT Insurance AG][14]
 * [Drägerwerk][12]
-* [Blau Mobilfunk GmbH][11]
-* [Conergy][10]
+* [Blau Mobilfunk GmbH (R.I.P.)][11]
+* [Conergy (R.I.P.) ][10]
 * [Talkline GmbH (R.I.P.)][9]
 * [Brokat Technologies (R.I.P.)][8]
 * [Arche Systems GmbH][13]
