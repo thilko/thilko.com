@@ -1,0 +1,22 @@
+---
+layout: post
+title: A sketchnote about me
+modified:
+categories: sketchnotes
+excerpt:
+tags: [sketchnotes]
+image:
+  feature:
+date: 2018-10-30T08:20:35+02:00
+---
+For my current sketchnote courses I have created a new introduction.
+
+I used a pencil to roughly sketch the structure and later I redraw the sketchnote with a fineliner. It expresses my most important work topics really
+well:
+
+* Software craftsmanship
+* Agile coaching
+* Building network of humans
+* .. and sktchnoting ;-)
+
+{% img left /images/about_me.jpg 640 480  %}
