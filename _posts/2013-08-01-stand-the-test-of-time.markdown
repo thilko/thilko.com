@@ -12,7 +12,7 @@ Look at the following example:
 Suppose you are developing an accounting system. Invoices are created in billing cycles which are allowed to run
 at the beginning of every month.
 
-{% codeblock lang:java %}
+{% highlight java %}
 import org.joda.time.*;
 
 import java.util.Arrays;
@@ -30,10 +30,10 @@ public class BillingCycle {
         return BILLING_CYCLE_DAYS.contains(today.getDayOfMonth());
     }
 }
-{% endcodeblock %}
+{% endhighlight %}
 
 
-{% codeblock lang:java %}
+{% highlight java %}
 
 import static org.hamcrest.CoreMatchers.is;
 import org.joda.time.DateTime;
@@ -64,7 +64,7 @@ public class BillingCycleTest {
 
 }
 
-{% endcodeblock %}
+{% endhighlight %}
 
 How to test this method? Since <code>new DateTime()</code> is not accesible you have no chance to test the true/false
 cases in an isolated, consistent way. You have a dependency to time and it is a moving window.
@@ -72,7 +72,7 @@ cases in an isolated, consistent way. You have a dependency to time and it is a 
 The easiest way would be to pass the current date to the method or to inject it from the test in the
 billing cycle.
 
-{% codeblock lang:java %}
+{% highlight java %}
 
 public class BillingCycle {
 
@@ -96,9 +96,9 @@ public class BillingCycle {
     }
 }
 
-{% endcodeblock %}
+{% endhighlight %}
 
-{% codeblock lang:java %}
+{% highlight java %}
 
 @Test
 public void isAllowedToRun_onTheFirstOfEveryMonth_returnsTrue(){
@@ -112,7 +112,7 @@ public void isActivated_onTheFourthOfEveryMonth_returnsFalse(){
     assertThat(billingCycle.isAllowedToRun(), is(false));
 }
 
-{% endcodeblock %}
+{% endhighlight %}
 
 Sligthly better, but both approaches have a downsides: if you create the date in the constructor, you bind the
 now to the creation of your object which could be a source of hard to find bugs especially if you
@@ -124,7 +124,7 @@ you pollute your interface with quite specific information about what your metho
 An another approach could be to create a subclass from billing cycle, extract <code>new DateTime()</code> into a method and 
 override it a test specific subclass.
 
-{% codeblock lang:java %}
+{% highlight java %}
 
 public class BillingCycle {
 
@@ -140,9 +140,9 @@ public class BillingCycle {
         return new DateTime();
     }
 }
-{% endcodeblock %}
+{% endhighlight %}
 
-{% codeblock lang:java %}
+{% highlight java %}
 
 import org.joda.time.DateTime;
 
@@ -159,7 +159,7 @@ public class TestBillingCycle extends BillingCycle {
         return now;
     }
 }
-{% endcodeblock %}
+{% endhighlight %}
 
 Now you can use the <code>TestBillingCycle</code> instead of <code>BillingCycle</code> in your unit tests and use a specific
 date for each test case.
@@ -175,7 +175,7 @@ I don´t think that this a good solution since you can possibly break unrelated 
 I prefer composition over inheritence, so an alternative approach could be:
 
 
-{% codeblock lang:java %}
+{% highlight java %}
 
 public class BillingCycle {
 
@@ -197,18 +197,18 @@ public class BillingCycle {
         return BILLING_CYCLE_DAYS.contains(clock.getNow().getDayOfMonth());
     }
 }
-{% endcodeblock %}
+{% endhighlight %}
 
-{% codeblock lang:java %}
+{% highlight java %}
 
 public interface Clock {
 
     public DateTime getNow();
 
 }
-{% endcodeblock %}
+{% endhighlight %}
 
-{% codeblock lang:java %}
+{% highlight java %}
 
 // use the FrozenClock inside your tests where you need a fixed date for 
 // consistent test results
@@ -225,9 +225,9 @@ public class FrozenClock implements Clock{
         return now;
     }
 }
-{% endcodeblock %}
+{% endhighlight %}
 
-{% codeblock lang:java %}
+{% highlight java %}
 
 public class BillingCycleTest {
 
@@ -254,7 +254,7 @@ public class BillingCycleTest {
     }
 
 }
-{% endcodeblock %}
+{% endhighlight %}
 
 With an object representing the time you got the full power of an OO design.  Even if you are in the enterprise world, you can simply inject a 
 "ClockService" from your test context into your services, repositories, components, mapper or however.

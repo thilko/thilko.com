@@ -13,14 +13,13 @@ On my first attendance of [SoCraTes][1] this year I got in touch with [sketchnot
 
 In September, when the time was really busy, I started to make an overview about my current activities - just to make sure that nothing gets lost. So what happened?
 
-{% img center /images/timeline_2015.png 600 400 timeline_2015 %}
-
+![Timeline](/images/timeline_2015.png)
 
 Coding Dojos
 =====
 I´ve facilitated a couple of coding dojos in my company. We experimented with various topics, i.e. using a raspberry pi with attached breadboard to simulate a more embedded like environment. The challenge was to develop a binary clock with some led´s in TDD style.
 
-{% img left /images/raspberry_pi_led.jpg 300 200 raspberry pi %}
+![raspberry_pi](/images/raspberry_pi_led.jpg)
 
 In another session we worked with the diamond kata. With Emily´s repository solved the kata in incremental and iterative way.
 
@@ -37,18 +36,19 @@ MetaNook
 =====
 Tobias and I had a great talk about TDD([Chuck Norris doesn´t need a debugger, he writes tests!][6]) at the university. We started with some theory and continued with a prepared kata. Afterwards we facilitated together with Florian a coding dojo with more than 30 participants.
 
-{% img center /images/metanook2015_dojo.jpg 600 400 metanook %}
+![metanook](/images/metanook2015_dojo.jpg)
 
 Global day of code retreat
 =====
-{% img left /images/gdcr2015_sketchnote.jpg 300 200 gdcr2015 %}
+![gdcr2015](/images/gdcr2015_sketchnote.jpg)
+
 Lübeck was again part of the Global day of Code Retreat! This time we met at the [Chaotkium][5], a cozy hackspace in the inner city of Lübeck. Tobias was the facilitator, I took care of the lunch and organized some video conferences. A great day again.  
 
 Kick-Off Competence Network
 =====
 A bigger event in my company with more than 140 participants. We planned an open space and it should be my first open space as a moderator. But one day before the birth of my two daughters started - so I wasn´t able to moderate it but fortunately Sina took over my Job and it was a great event! I believe that the Open Space Technology is a key element in transforming an organization: **true, honest and open discussions about things that are relevant for the people is the key.**
 
-{% img center /images/cnetwork2015.jpg 600 400 cnetwork %}
+![metanook](/images/cnetwork2015.jpg)
 
 Softwerkskammer
 =====
@@ -72,7 +72,8 @@ Kung Fu examination
 =====
 Last but not least: my [kung fu exercise][4] for the green belt. I worked more than half a year for that. Thanks to Ulli - my wife - in supporting and pushing to not skip the training. After 5h intense training I earned the green belt! Finally, after 8 years!
 
-{% img center /images/whkd_green_belt.jpg 600 400 go_green %}
+![go_green](/images/whkd_green_belt.jpg)
+
 All in one a really tough year and I am excited about the upcoming challenges in the next one.
 
 [1]: https://thilko.com/2015/08/30/socrates-2015/

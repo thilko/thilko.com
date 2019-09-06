@@ -8,7 +8,8 @@ image:
   feature:
 date: 2016-01-20T14:27:12+01:00
 ---
-{% img left /images/agile_it_organization_design_cover.jpg 200 200 agile organizational design %}
+![agile organizational design](/images/agile_it_organization_design_cover.jpg)
+
 I came across the book "[Agile IT organization design][1]" by Sriram Narayan and I used some [sketchnotes][2] to make a personal documenation of the book.
 
 ### Some takeaways
@@ -22,11 +23,15 @@ I came across the book "[Agile IT organization design][1]" by Sriram Narayan and
 
 ### The sketches
 
-[{% img center /images/agile_it_organization_design_1.jpg 500 500 agile organizational design %}][3][{% img center /images/agile_it_organization_design_2.jpg 500 500 agile organizational design %}][4]
-[{% img center /images/agile_it_organization_design_3.jpg 500 500 agile organizational design %}][5][{% img center /images/agile_it_organization_design_4.jpg 500 500 agile organizational design %}][6]
-[{% img center /images/agile_it_organization_design_5.jpg 500 500 agile organizational design %}][7][{% img center /images/agile_it_organization_design_6.jpg 500 500 agile organizational design %}][8]
-[{% img center /images/agile_it_organization_design_7.jpg 500 500 agile organizational design %}][9][{% img center /images/agile_it_organization_design_8.jpg 500 500 agile organizational design %}][10]
-[{% img center /images/agile_it_organization_design_9.jpg 500 500 agile organizational design %}][11]
+![agile organizational design](/images/agile_it_organization_design_1.jpg)
+![agile organizational design](/images/agile_it_organization_design_2.jpg)
+![agile organizational design](/images/agile_it_organization_design_3.jpg)
+![agile organizational design](/images/agile_it_organization_design_4.jpg)
+![agile organizational design](/images/agile_it_organization_design_5.jpg)
+![agile organizational design](/images/agile_it_organization_design_6.jpg)
+![agile organizational design](/images/agile_it_organization_design_7.jpg)
+![agile organizational design](/images/agile_it_organization_design_8.jpg)
+![agile organizational design](/images/agile_it_organization_design_9.jpg)
 
 [1]: http://www.agileorgdesign.com/
 [2]: http://sketchnotearmy.com/about/

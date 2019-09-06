@@ -21,7 +21,7 @@ Random thoughts:
 * The middle whitespaces are always the same regardless of the size of the diamond
 * [Code on GitHub][3]
 
-{% codeblock lang:elixir %}
+{% highlight elixir %}
 
 defmodule DiamondTest do
   use ExUnit.Case
@@ -111,7 +111,7 @@ defmodule DiamondTest do
   end
 end
 
-{% endcodeblock %}
+{% endhighlight %}
 
 
 [1]: http://elixir-lang.org/

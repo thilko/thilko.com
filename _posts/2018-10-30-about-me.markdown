@@ -19,4 +19,4 @@ well:
 * Building network of humans
 * .. and sktchnoting ;-)
 
-{% img left /images/about_me.jpg 640 480  %}
+![about me](/images/about_me.jpg)

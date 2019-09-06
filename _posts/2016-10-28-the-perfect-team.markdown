@@ -15,7 +15,7 @@ From my point of view team collaboration is a really important one. Couple of da
 
 Interesting enough for me I´ve created a little sketchnote about the quest for the 'perfect team':
 
-{% img left /images/perfect_team.jpg 640 480 perfect_team %}
+![perfect_team](/images/perfect_team.jpg)
 
 [1]: http://www.draeger.com
 [2]: http://www.infoq.com/news/2016/10/google-perfect-team

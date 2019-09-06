@@ -18,7 +18,7 @@ I was the facilitator of the [Global Day of Code Retreat in Lübeck][3]. We had 
 
 I facilitated a handful of coding dojos in my company. It´s great to work with other developers on the core skills and it was a great opportunity for me to get better in my profession as a software developer.
 
-{% img left /images/my_year_2014.jpg 460 300 my year 2014 %}
+![2014](/images/my_year_2014.jpg)
 
 And finally I spend a lot of time in learning about agile, lean and change management and that is a good and bad thing. Why? It´s a good thing because as a developer I took responsibility. I tried to be not just a coding monkey where someone else say what I should program. I tried to shape my environment so that we as developers could bring our value to the customers.
 

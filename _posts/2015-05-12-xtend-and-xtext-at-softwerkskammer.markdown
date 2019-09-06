@@ -7,7 +7,7 @@ categories: softwerkskammer
 ---
 On our [6th meetup][7] of the [softwerkskammer Lübeck][8] we were lucky to have [Sven Efftinge][1] as our guest. He is the project lead for [XText][2], organisator of the [Nordic Coding Event][3] and works at [itemis][4].
 
-{% img left /images/swk_xtend_xtext.jpg 400 200 Softwerkskammer %}
+![Softwerkskammer](/images/swk_xtend_xtext.jpg)
 
 He presented [XTend][5], a language on the JVM that is build with XText and which compiles to java source code. After a walkthrough he shows with an example how easy it is to build a DSL with XText. The whole presentation was done by showing code! In my opinion the best way and he did a great job in answering questions.
 
@@ -16,7 +16,7 @@ It does not need it´s own bytecode compile since XTend it translated at compile
 
 I think the advantage of XTend lies in it´s lightweight character: you are still writing java, but just in a better way. It´s like [CoffeeScript for JavaScript][6].
 
-{% img center /images/swk_xtend_xtext_discussion.jpg 410 240 Softwerkskammer %}
+![Softwerkskammer](/images/swk_xtend_xtext_discussion.jpg)
 
 It was a great meetup with some really good discussions in the end! Looking forward for the upcoming meeting in June!
 

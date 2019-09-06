@@ -11,7 +11,7 @@ date: 2016-10-03T20:20:35+02:00
 ---
 Inspired by the [C++ Lands][1] I have created a map for the Agile Devlelopment world in sketchnote style.
   
-{% img left /images/agile_development_world.jpg 640 480 agile_world %}
+![agile_world](/images/agile_development_world.jpg)
   
 The journey to the agile continent through the Sea of Uncertainties, as the name says, uncertain and full of 
 wrong turns. Although you can base your work on fundamental principles and some practices that seemed to be proven

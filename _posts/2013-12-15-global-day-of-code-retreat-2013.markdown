@@ -10,7 +10,7 @@ than [165 cities][2] that were celebrating the [global day of code retreat][7]. 
 [cloudsters][3] and supported by [draeger][4], we had several interesting sessions and various video conferences
 with other locations.
 
-{% img /images/gdcr13.jpg 800 600 %}
+![gdcr](/images/gdcr13.jpg)
 
 ## Session 1: Plain old TDD
 After a breakfast we started the first session with plain old TDD. Focus was on getting in touch with
@@ -28,7 +28,7 @@ It worked surpisingly well, although this technique is not the easiest one.
 It was impressive to see what happens if you focus on really small steps and skip any upfront design 
 activities.
 
-{% img /images/gdcr13_session.jpg 800 600 %}
+![Session](/images/gdcr13_session.jpg)
 
 Our lunch was delivered by [Fresh and Fair][5], quite tasty!
 

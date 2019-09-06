@@ -7,7 +7,7 @@ categories: softwerkskammer chaotikum tdd
 ---
 The [Softwerkskammer Lübeck][1] had it´s very first meeting at [Chaotikum][2] in Lübeck!
 
-{% img right /images/swk_first_meeting.jpg 460 300 Softwerkskammer Lübeck %}
+![Softwerkskammer Lübeck](/images/swk_first_meeting.jpg)
 
 The "[Softwerkskammer][3]" is a community of people who like the idea of [software craftsmanship][6] and since there was no such community in Lübeck, I started a new one.
 
@@ -19,7 +19,7 @@ I also prepared an introduction into [Test Driven Development][4], but we change
 
 We had inspiring discussions and I did my first steps in [Smalltalk][9]. :-)
 
-{% img left /images/chaotikum.jpg 360 200 Softwerkskammer Lübeck %}
+![Softwerkskammer Lübeck](/images/chaotikum.jpg)
 
 Especially our first location, the [chaotikum][2], was great. It´s located in the [centre of Lübeck][8] and a really creative hackspace.
 

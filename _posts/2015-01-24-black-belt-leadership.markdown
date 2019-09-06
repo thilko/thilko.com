@@ -7,7 +7,7 @@ categories: agile leadership
 ---
 TLDR; Another blog post not containing any source code, but since leadership was a really important topic for me in the last time, I decided to publish it anyway. My conclusion: __True leaders are really rare.__
 
-{% img right /images/emperado.jpg 230 150 Emperado %}
+![Emperado](/images/emperado.jpg)
 
 ## What is a black belt?
 

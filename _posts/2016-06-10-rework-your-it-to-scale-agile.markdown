@@ -23,7 +23,6 @@ My key take aways are:
 * Prefer soft over hard predictability
 * No projects!
 
-{% img left /images/rework_it.jpg 460 300 rework it %}
-
+![rework it](/images/rework_it.jpg)
 
 [1]: http://www.meetup.com/de-DE/ThoughtWorks-Hamburg/events/231211921/

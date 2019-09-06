@@ -7,7 +7,7 @@ categories: softwerkskammer socrates agile craftsmanship
 ---
 This year I have been on my first [SoCraTes][1]! It was also my first [unconference][2] and a great experience I would like to share here.
 
-{% img left /images/socrates_panorama.jpg 600 400 socrates %}
+![Socrates](/images/swk_xtend_xtext_discussion.jpg)
 
 ## The venue
 
@@ -39,7 +39,7 @@ We had various evening sessions: Coding Dojo(where I have been), [Powerpoint Kar
 ## Day two (Saturday)
 I started my day with some kung lessons in the hotel garden. Since the area is quite spacious it was quite and I could focus on the execution.
 
-{% img right /images/socrates_groovy_talk.jpg 200 100 groovy_talk %}
+![groovy_talk](/images/socrates_groovy_talk.jpg)
 
 Today the spirit of the conference got me and I proposed two talks: **"Groovify Java"** and **"How to change a company as a developer without becoming a manager"**.
 
@@ -47,11 +47,11 @@ The idea for the latter was to facilitate a lean coffee session and in order to 
 
 We talked about "acting as an example" and skunk awards as a way to change the organizational culture. You never can change a company alone, find willing people and build a coalition! Interesting thoughts: whenever you hear: "That does not work here!", ask: "What will work?" and _"Ask for forgiveness and not for permission"_.
 
-{% img left /images/socrates_agile_transformation_summary.jpg 250 125 agile_transformation_summary %}  
+![Agile Transformation](/images/socrates_agile_transformation_summary.jpg)
 
 So this day was really the time where I left my comfort zone. And it was great.
 
-{% img left /images/socrates_agile_transformation.jpg 250 125 agile_transformation %}
+![Agile Transformation](/images/socrates_agile_transformation.jpg)
 
 ## Day three (Sunday)
 After the last days was a bit more quite compared the former days. I had a relaxing breakfast with good talks about retrospectives. Today some workshops were scheduled. I joined the [Extreme Startup][10] session and although I was a bit late and couldn´t compete with the other groups I had quite a lot of fun and I will try the game at one of the next coding dojo sessions or at the [Softwerkskammer meetups][11].
@@ -91,7 +91,7 @@ As Pierluigi said: __The conference is like an empty pot and it is filled with t
 
 I am happy the be a part of the community and looking forward to the next SoCraTes. Thanks for the great conference!
 
-{% img center /images/socrates_lob.jpg 400 125 lob %}
+![Lob](/images/socrates_lob.jpg)
 
 [1]: https://www.socrates-conference.de/
 [2]: https://en.wikipedia.org/wiki/Unconference
