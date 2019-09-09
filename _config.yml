@@ -1,12 +1,9 @@
 # Site wide configuration
-
 title:            thilko.com
 locale:           en_US
 url:
 
-
 # Jekyll configuration
-
 permalink:   /:year/:month/:day/:title/
 markdown:    kramdown
 highlighter: rouge
